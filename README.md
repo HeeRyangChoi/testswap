@@ -4,7 +4,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, install following packages :
 
-```npm create next-app web3-react-example
+```bash
+npm create next-app web3-react-example
 npm add @web3-react/injected-connector
 npm add @web3-react/core
 npm add web3

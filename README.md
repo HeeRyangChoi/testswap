@@ -1,13 +1,14 @@
 # testswap
-test repository for atomic swap contract
+## Getting started
+
+First, installing a pacakge & deploying scripts. Here, deploy.js automatically makes /frontend/src/contracts/... files.
 
 ```
 npm install
-npx hardhat node
 npx hardhat --network ropsten run scripts/deploy.js
 ```
 
-open frontend directory
+Then open frontend directory, installing a package and run a frontend.
 ```
 npm install
 npm run start
